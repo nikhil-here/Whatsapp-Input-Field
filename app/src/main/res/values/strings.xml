@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhatsappInputField</string>
+    <string name="info_with_transition_title">With Transition</string>
+    <string name="info_with_transition_description">Focus on how the camera icon fades when a user starts writing.</string>
+    <string name="info_without_transition_title">Without Transition</string>
+    <string name="info_without_transition_description">See how the camera icon suddenly disappears and makes UI inconsistent.</string>
+    <string name="dummy">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, animi architecto asperiores at blanditiis</string>
+</resources>
